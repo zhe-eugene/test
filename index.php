@@ -1,9 +1,9 @@
 <?php
-if(1) {
+if(0) {
 http_response_code(500);
 }
 else {
-http_response_code(404);
+http_response_code(422);
 }
 
 
